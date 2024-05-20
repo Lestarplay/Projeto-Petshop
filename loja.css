@@ -1,0 +1,56 @@
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    align-items: center;
+    padding: 50px;
+}
+body{
+    color: white;
+    background-image: url(Background/10705558-fundo-abstrato-moderno-laranja-para-banner-pagina-de-destino-poster-apresentacao-ou-folheto-gratis-vetor.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ table{
+   width: 100%;
+   border: 1px solid black;
+ }
+
+ td{
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+    
+ }
+ th{
+   background-color: black;
+   color: white;
+   border: 1px solid black;
+ }
+ .Par{
+   background-color: #f2f2f2;
+   color: black;
+   
+ }
+ a{
+    color: black;
+    text-decoration: none;
+ }
+ a:hover{
+   padding: 20px;
+   background-color: white;
+   border-radius: 20px;
+   box-shadow: 5px 10px;
+ }
+ .center{
+     text-align: center;
+     border-radius: 100px;
+
+
+ }
+ img{
+   width: 150px;
+   height: 150px;
+   border-radius: 100px;
+ }

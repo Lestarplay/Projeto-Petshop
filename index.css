@@ -1,0 +1,45 @@
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    align-items: center;
+    padding: 50px;
+    
+}
+a{
+    color: black;
+    text-decoration: none;
+
+ }
+ a:hover{
+   padding: 20px;
+   background-color: white;
+   border-radius: 20px;
+   box-shadow: 5px 10px;
+ }
+
+ body{
+    color: white;
+    background-image: url(Background/3550272-abstrato-laranja-fluido-onda-fundo-gratis-vetor.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+
+ table{
+   width: 100%;
+ }
+
+ td{
+    border: 1px solid  black;
+ }
+ img{
+   width: 150px;
+   height: 150px;
+   border-radius: 100px;
+ }
+ .center{
+   text-align: center;
+   border-radius: 100px;
+
+
+}
