@@ -22,16 +22,13 @@ a{
    box-shadow: 5px 10px;
  }
  .center{
-    text-align: center;
-    border-radius: 100px;
-
-
-}
+   text-align: center;
+ }
 img{
-    width: 150px;
-    height: 150px;
-    border-radius: 100px;
-  }
+   width: 150px;
+   height: 150px;
+   border-radius: 100px;
+}
  h2{
     text-align: center;
  }
@@ -39,7 +36,7 @@ img{
     text-align: center;
  }
  p{
-    background-color: white;
-    color: black;
+    color: white;
     border-radius: 10px;
+    font-size: 20px;
  }
